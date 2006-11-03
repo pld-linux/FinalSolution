@@ -37,7 +37,7 @@ serwera.
 
 %build
 %{__make} \
-	CC=%{__cxx} \
+	CC="%{__cxx}" \
 	CFLAGS="%{rpmcflags} -Wall -Wno-deprecated -c -Isrc/Include" \
 	DEBUG=""
 
