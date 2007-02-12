@@ -1,5 +1,5 @@
 Summary:	A distrubuted, multithreaded, multiprotocol password cracker
-Summary(pl):	Rozproszony, wielow±tkowy, wieloprotoko³owy ³amacz hase³
+Summary(pl.UTF-8):   Rozproszony, wielowÄ…tkowy, wieloprotokoÅ‚owy Å‚amacz haseÅ‚
 Name:		FinalSolution
 Version:	0.2
 Release:	0.9
@@ -21,15 +21,15 @@ some cases when the test server has more bandwidth than you. Using
 distributed cracking helps optimize the bandwidth usage in the
 server's side.
 
-%description -l pl
-FinalSolution to narzêdzie administratora sieci s³u¿±ce do sprawdzania
-jako¶ci hase³. Robi to próbuj±c z³amaæ serwer, który chcemy
-przetestowaæ. FinalSolution jest wielow±tkowy - czyli tworzy wiele
-jednoczesnych po³±czeñ do testowanego serwera, aby zoptymalizowaæ
-wykorzystanie pasma. Jest tak¿e rozproszony, co oznacza, ¿e mo¿na
-testowaæ pojedynczy serwer z wielu komputerów. Mo¿e to byæ przydatne,
-kiedy testowany serwer ma lepsze ³±cze od nas. U¿ycie ³amania
-rozproszonego pomaga zoptymalizowaæ wykorzystanie pasma po stronie
+%description -l pl.UTF-8
+FinalSolution to narzÄ™dzie administratora sieci sÅ‚uÅ¼Ä…ce do sprawdzania
+jakoÅ›ci haseÅ‚. Robi to prÃ³bujÄ…c zÅ‚amaÄ‡ serwer, ktÃ³ry chcemy
+przetestowaÄ‡. FinalSolution jest wielowÄ…tkowy - czyli tworzy wiele
+jednoczesnych poÅ‚Ä…czeÅ„ do testowanego serwera, aby zoptymalizowaÄ‡
+wykorzystanie pasma. Jest takÅ¼e rozproszony, co oznacza, Å¼e moÅ¼na
+testowaÄ‡ pojedynczy serwer z wielu komputerÃ³w. MoÅ¼e to byÄ‡ przydatne,
+kiedy testowany serwer ma lepsze Å‚Ä…cze od nas. UÅ¼ycie Å‚amania
+rozproszonego pomaga zoptymalizowaÄ‡ wykorzystanie pasma po stronie
 serwera.
 
 %prep
