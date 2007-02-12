@@ -1,5 +1,5 @@
 Summary:	A distrubuted, multithreaded, multiprotocol password cracker
-Summary(pl.UTF-8):   Rozproszony, wielowątkowy, wieloprotokołowy łamacz haseł
+Summary(pl.UTF-8):	Rozproszony, wielowątkowy, wieloprotokołowy łamacz haseł
 Name:		FinalSolution
 Version:	0.2
 Release:	0.9
